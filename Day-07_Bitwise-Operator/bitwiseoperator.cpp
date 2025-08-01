@@ -16,6 +16,6 @@ int main()
     cout << "Left shift of b by 2:" << (b << 2) << endl;
     cout << "Right shift of a by 2:" << (a >> 2) << endl;
     cout << "Right shift of b by 2:" << (b >> 2) << endl;
-    cout << "Right shift of b by 2:" << (b >> 2) << endl;
-    cout << "Right shift of b by 2:" << (b >> 2) << endl;
+    // cout << "Right shift of b by 2:" << (b >> 2) << endl;
+    // cout << "Right shift of b by 2:" << (b >> 2) << endl;
 }

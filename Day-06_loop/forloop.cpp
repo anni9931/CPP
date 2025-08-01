@@ -2,6 +2,7 @@
 using namespace std;
 
 //  This program print sum of n no.
+
 // int main()
 // {
 //     int n;
