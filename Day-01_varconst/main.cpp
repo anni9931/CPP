@@ -3,7 +3,7 @@ using namespace std;
 
 void sum()
 {
-    int a = 5;
+    int a = 15;
     cout << "The value of a++ :" << a++ << endl;
 
     return;
@@ -15,7 +15,7 @@ int main()
     // number = 475;
     // // cout << number << endl;
 
-    // int number = 453;
+    // int number = 987;
     // cout << number << endl;
     sum();
     cout << endl;
